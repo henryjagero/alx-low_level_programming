@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - nmbr fct
- * Bwave ICT file
+ * henryjagero did it
  * Return: no return
  */
 
