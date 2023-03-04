@@ -1,9 +1,2 @@
-#include <stdio.h>
-
-int main() {
-int a = 5;
-int b = 10;
-int c = a + b;
-printf("Sum of a and b is %d\n",c);
-return 0;
-}
+#!/bin/bash
+gcc -S -masm=intel $CFILE
